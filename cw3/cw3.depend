@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1508625075 source:c:\users\konra\desktop\cw3\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<string>
+	<stdexcept>
+	<limits>
+
